@@ -1,4 +1,4 @@
-# E-Commerce Growth & Marketing Analytics
+# Growth & Marketing Analytics
 
 ## End-to-end Business Intelligence & Analytics Engineering Project
 
