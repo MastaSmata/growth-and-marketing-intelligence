@@ -1,4 +1,4 @@
-# Growth & Marketing Analytics
+# Growth & Marketing Intelligence System
 
 ## End-to-end Business Intelligence & Analytics Engineering Project
 
